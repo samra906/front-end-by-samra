@@ -1,0 +1,17 @@
+.red {
+    color:red;
+}
+
+p.blue {
+    color: blue;
+}
+.blue {
+    color: darkcyan ;
+}
+p {
+    color: aqua;
+}
+ section {
+    /* height: 100px; */
+    border: 1px solid purple;
+ }
